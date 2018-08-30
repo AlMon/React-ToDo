@@ -1,5 +1,5 @@
 ## React Todo In Action
-![rtd demo](https://user-images.githubusercontent.com/4275841/44865643-7d9f1300-ac48-11e8-90a5-ca7615dd5e58.gif)
+![react todo demo](https://user-images.githubusercontent.com/4275841/44866106-e63abf80-ac49-11e8-906f-af6a0ec6263a.gif)
 
 ## Description
 React Todo is a todo app which allows for creation, editing and deleting of the todos. The app is connected to a real API and so, the todos will remain there until you modify or delete them!
